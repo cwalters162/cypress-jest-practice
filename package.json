@@ -1,0 +1,23 @@
+{
+  "name": "cypress-jest-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cwalters162/cypress-jest-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cwalters162/cypress-jest-practice/issues"
+  },
+  "homepage": "https://github.com/cwalters162/cypress-jest-practice#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^8.0.0"
+  }
+}
